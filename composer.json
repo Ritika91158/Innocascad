@@ -1,0 +1,21 @@
+{
+    "name": "innocascade/platform",
+    "description": "Student Innovation Platform",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ravi Ranjan",
+            "email": "raviranjankashyap7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
